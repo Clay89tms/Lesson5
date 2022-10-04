@@ -15,9 +15,9 @@ public class Main {
             case (4):
                 dz05_04();
                 break;
+            default:
+                System.out.println();
         }
-
-
     }
 
     private static void dz05_04() {
